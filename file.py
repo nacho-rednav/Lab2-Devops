@@ -1,4 +1,4 @@
-print("Hello, World! This i my greeting :)")
+print("Welcome")
 
 for i in range(10):
     print(i)
